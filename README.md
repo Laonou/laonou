@@ -28,7 +28,7 @@
 | ![GitHub Profile Summary Cards](profile-summary-card-output/transparent/0-profile-details.svg) | ![GitHub Profile Summary Cards](profile-summary-card-output/transparent/4-productive-time.svg) |
 | :-: | :-: |
 
-| ![GitHub stats](https://github-readme-stats-puce-one-80.vercel.app/api?username=Laonou&theme=transparent&show_icons=true) | [![GitHub Streak](https://github-readme-streak-stats-brown-eta.vercel.app?user=Laonou&theme=transparent)](https://git.io/streak-stats) |
+| ![GitHub stats](https://github-readme-streak-stats-6mba.vercel.app/api?username=Laonou&theme=transparent&show_icons=true) | [![GitHub Streak](https://github-readme-stats-qksg.vercel.app?user=Laonou&theme=transparent)](https://git.io/streak-stats) |
 | :-: | :-: |
 
 | ![GitHub Snake Dark](dist/github-snake-dark.svg) |
