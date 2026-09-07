@@ -28,16 +28,16 @@
 | ![GitHub Profile Summary Cards](profile-summary-card-output/transparent/0-profile-details.svg) | ![GitHub Profile Summary Cards](profile-summary-card-output/transparent/4-productive-time.svg) |
 | :-: | :-: |
 
-| ![GitHub stats](https://github-readme-streak-stats-mn86.vercel.app/api?username=Laonou&theme=transparent&show_icons=true) | [![GitHub Streak](https://github-readme-streak-stats-apow.vercel.app?user=Laonou&theme=transparent)](https://git.io/streak-stats) |
+| ![GitHub stats](https://github-readme-stats-puce-one-80.vercel.app/api?username=Bubhux&theme=transparent&show_icons=true) | [![GitHub Streak](https://github-readme-streak-stats-brown-eta.vercel.app?user=Bubhux&theme=transparent)](https://git.io/streak-stats) |
 | :-: | :-: |
 
 | ![GitHub Snake Dark](dist/github-snake-dark.svg) |
 | :-: |
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bubhux/Bubhux/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bubhux/Bubhux/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Bubhux/Bubhux/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laonou/Laonou/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Laonou/Laonou/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Laonou/Laonou/output/pacman-contribution-graph.svg">
 </picture>
 
 *généré avec [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)*
